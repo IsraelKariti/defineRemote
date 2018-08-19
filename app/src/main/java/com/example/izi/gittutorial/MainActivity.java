@@ -10,6 +10,11 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        int x = -99;
+        // added comment
+
+int y  = 888;
+int x = 9;
+int z = -5000;
+int t = 0;
     }
 }
