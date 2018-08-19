@@ -17,5 +17,7 @@ public class MainActivity extends AppCompatActivity {
         int z = -5000;
         int t = 0;
         int cloud = 100;
+
+        int commitLocal = 1;
     }
 }
