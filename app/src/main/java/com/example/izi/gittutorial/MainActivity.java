@@ -21,6 +21,6 @@ public class MainActivity extends AppCompatActivity {
         int commitGlobal = 2;
         x = 800;
         String USARULES = "CRAZY";
-        int USARULES = 101010;
+        int USARULES123 = 945738;
     }
 }
