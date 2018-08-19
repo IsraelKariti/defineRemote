@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
         int commitLocal = 1;
         int commitGlobal = 2;
         x = 800;
+        String USARULES = "CRAZY";
         int USARULES = 101010;
     }
 }
