@@ -22,5 +22,6 @@ public class MainActivity extends AppCompatActivity {
         x = 800;
         String USARULES = "CRAZY";
         int USARULES = 101010;
+        int tired = 0;
     }
 }
