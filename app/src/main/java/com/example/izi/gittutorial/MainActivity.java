@@ -20,6 +20,6 @@ public class MainActivity extends AppCompatActivity {
         int commitLocal = 1;
         int commitGlobal = 2;
         x = 800;
-        int USARULES = 500;
+        int USARULES = 1500;
     }
 }
