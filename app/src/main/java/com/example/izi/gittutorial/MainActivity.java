@@ -12,9 +12,10 @@ public class MainActivity extends AppCompatActivity {
 
         // added comment
 
-int y  = 888;
-int x = 9;
-int z = -5000;
-int t = 0;
+        int y  = 888;
+        int x = 9;
+        int z = -5000;
+        int t = 0;
+        int cloud = 100;
     }
 }
