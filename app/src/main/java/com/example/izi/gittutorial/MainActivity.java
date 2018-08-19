@@ -19,5 +19,6 @@ public class MainActivity extends AppCompatActivity {
         int cloud = 100;
 
         int commitLocal = 1;
+        int commitGlobal = 2;
     }
 }
